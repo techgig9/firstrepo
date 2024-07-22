@@ -1,2 +1,0 @@
-this is sample5.txt to verify RESET and REVERT
-modified text
