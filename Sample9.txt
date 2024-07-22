@@ -1,4 +1,4 @@
-this is sample text 
-to verify git push 
+
+
 In response to questions on the National Testing Agency (NTA) and the conduct of NEET-UG in the Lok Sabha, the Government has said there has been a “likely breach of chain of custody” of the 
 question paper in only one instance and that “there is no material on record to indicate any proof of any large-scale breach of confidentiality in this pan-India examination
