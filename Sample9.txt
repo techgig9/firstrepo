@@ -1,2 +1,3 @@
 this is sample text 
 to verify git push 
+modified sample9.txt to verify merge conflict
