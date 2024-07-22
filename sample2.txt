@@ -1,1 +1,2 @@
 this is sample2.txt file present under develop branch
+change in sample2.txt
